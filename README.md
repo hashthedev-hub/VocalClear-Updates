@@ -6,7 +6,7 @@ VocalClear is a locally hosted, AI-powered desktop utility engineered for precis
 
 ## 📥 Releases & Installation
 The latest standalone Windows executable is available directly via GitHub Releases:
-**[Download Latest Release (v1.0.0)](https://github.com/HashTheDev-hub/VocalClear-Updates/releases/download/v1.0.0/VocalClear.zip)**
+**[Download Latest Release (v1.0.1)](https://github.com/HashTheDev-hub/VocalClear-Updates/releases/latest/download/VocalClear-Setup-v1.0.1.zip)**
 
 ---
 
@@ -44,7 +44,7 @@ If you find this utility valuable for your workflow, consider supporting its con
 
 ## 📥 التحميل
 الإصدار الأخير لنظام ويندوز متاح للتحميل المباشر:
-**[تحميل أحدث إصدار (v1.0.0)](https://github.com/HashTheDev-hub/VocalClear-Updates/releases/download/v1.0.0/VocalClear.zip)**
+**[تحميل أحدث إصدار (v1.0.1)](https://github.com/HashTheDev-hub/VocalClear-Updates/releases/latest/download/VocalClear-Setup-v1.0.1.zip)**
 
 ---
 

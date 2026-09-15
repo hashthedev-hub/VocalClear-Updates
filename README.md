@@ -10,7 +10,7 @@ The latest standalone Windows executable is available directly via GitHub Releas
 
 ---
 
-## ⚙️ Technical Architecture
+##  Technical Architecture
 VocalClear is built to maximize local hardware efficiency and prevent data loss during heavy batch operations:
 
 *   **Adaptive ETA Algorithm:** Features a custom time-estimation algorithm with a self-healing threshold that tracks multi-stage processing and adapts to hardware capabilities in real-time.
@@ -26,7 +26,7 @@ VocalClear is built to maximize local hardware efficiency and prevent data loss 
 *   **Storage:** 6 GB minimum free disk space.
 *   **Network:** Required only once for initial license verification.
 
-## 🐛 Issue Tracking
+##  Issue Tracking
 Please use the **[Issues](../../issues)** tab to report bugs, crashes, or request features. Include steps to reproduce and any relevant system specs when opening a ticket.
 
 ## 💖 Support
@@ -42,13 +42,13 @@ If you find this utility valuable for your workflow, consider supporting its con
 
 *ملاحظة: هذا التطبيق مغلق المصدر. يُستخدم هذا المستودع حصرياً لاستضافة الإصدارات، التوثيق التقني، وتتبع الأخطاء البرمجية (Issue Tracker).*
 
-## 📥 التحميل
+##  التحميل
 الإصدار الأخير لنظام ويندوز متاح للتحميل المباشر:
 **[تحميل أحدث إصدار (v1.0.2)](https://github.com/hashthedev-hub/VocalClear-Updates/releases/download/v2.0.0/VocalClear-Setup-v2.0.0.zip)**
 
 ---
 
-## ⚙️ البنية التقنية
+##  البنية التقنية
 تم بناء البرنامج لاستغلال كفاءة العتاد المحلي ومنع فقدان البيانات أثناء معالجة الملفات الضخمة:
 
 *   **خوارزمية وقت التقدير (ETA):** خوارزمية مخصصة تتتبع مراحل المعالجة وتصحح نفسها ذاتياً بناءً على قدرات العتاد في الوقت الفعلي.
@@ -58,13 +58,13 @@ If you find this utility valuable for your workflow, consider supporting its con
 *   **مخرجات أصلية (Lossless):** معالجة الصوت بكامل الجودة دون أي خوارزميات ضغط ثانوية.
 *   **سلوك نموذج الذكاء الاصطناعي:** تعتمد دقة العزل على تداخل الترددات. قد يقوم النموذج أحياناً بحذف المؤثرات البيئية غير الموسيقية ظناً منه أنها عناصر تتطلب الإزالة.
 
-## 💻 متطلبات النظام
+##  متطلبات النظام
 *   **نظام التشغيل:** ويندوز 10 / ويندوز 11 (64-بت).
 *   **معالج الرسومات (GPU):** يُنصح بشدة باستخدام كرت شاشة NVIDIA (مدعوم بـ CUDA) لتسريع المعالجة، مع توفر دعم المعالجة عبر المعالج المركزي (CPU).
 *   **مساحة التخزين:** 6 جيجابايت كحد أدنى.
 *   **الشبكة:** اتصال بالإنترنت مطلوب لمرة واحدة فقط للتحقق من الترخيص.
 
-## 🐛 تتبع الأخطاء (Issues)
+##  تتبع الأخطاء (Issues)
 يرجى استخدام قسم **[Issues](../../issues)** للإبلاغ عن أي خطأ برمجي (Bug) أو كراش.
 
 ## 💖 دعم التطوير

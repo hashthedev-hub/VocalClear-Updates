@@ -42,9 +42,9 @@ If you find this utility valuable for your workflow, consider supporting its con
 
 *ملاحظة: هذا التطبيق مغلق المصدر. يُستخدم هذا المستودع حصرياً لاستضافة الإصدارات، التوثيق التقني، وتتبع الأخطاء البرمجية (Issue Tracker).*
 
-##  التحميل
+## 📥 التحميل
 الإصدار الأخير لنظام ويندوز متاح للتحميل المباشر:
-**[تحميل أحدث إصدار (v1.0.2)](https://github.com/hashthedev-hub/VocalClear-Updates/releases/download/v2.0.0/VocalClear-Setup-v2.0.0.zip)**
+**[تحميل أحدث إصدار (v2.0.0)](https://github.com/hashthedev-hub/VocalClear-Updates/releases/download/v2.0.0/VocalClear-Setup-v2.0.0.zip)**
 
 ---
 
@@ -58,7 +58,7 @@ If you find this utility valuable for your workflow, consider supporting its con
 *   **مخرجات أصلية (Lossless):** معالجة الصوت بكامل الجودة دون أي خوارزميات ضغط ثانوية.
 *   **سلوك نموذج الذكاء الاصطناعي:** تعتمد دقة العزل على تداخل الترددات. قد يقوم النموذج أحياناً بحذف المؤثرات البيئية غير الموسيقية ظناً منه أنها عناصر تتطلب الإزالة.
 
-##  متطلبات النظام
+## 💻 متطلبات النظام
 *   **نظام التشغيل:** ويندوز 10 / ويندوز 11 (64-بت).
 *   **معالج الرسومات (GPU):** يُنصح بشدة باستخدام كرت شاشة NVIDIA (مدعوم بـ CUDA) لتسريع المعالجة، مع توفر دعم المعالجة عبر المعالج المركزي (CPU).
 *   **مساحة التخزين:** 6 جيجابايت كحد أدنى.
